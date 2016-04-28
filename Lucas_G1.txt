@@ -1,0 +1,18 @@
+CVS: 0.5
+Resumo: 1.8
+Projeto: 5.7
+Nota G1: 8
+================
+Feedback Resumo
+================
+possui título
+sem espaçamento entre parágrafos
+Texto bem escrito.
+diferenciou jogos e simuladores
+====================
+Feedback Projeto
+====================
+Trabalho no repositório correto, no entando não na pasta ordenacao conforme solicitado.
+Nenhum dos métodos foi documentado no código. 
+EXE disponibilizado não executa e não foram disponibilizadas instruções para compilar o programa, por isso a nota na interface gráfica foi reduzidaTutorial Ok. Métodos carecem de melhor explicação sobre o seu funcionamento.
+
